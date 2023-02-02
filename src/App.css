@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(96, 219, 209);
+    width: 100%;
+    height: 100vh;
+}
+
+.content {
+    width: 500px;
+    height: 600px;
+    background-color: white;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
